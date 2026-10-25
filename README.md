@@ -1,0 +1,1 @@
+creating a repository to store files to share: 1 once the folder created on local machine "TUPLE" then same should be created on the github.com and should be init using git init then git add . then git commit -m "First commit", then sync by providing command git remote add origin and url https://github.com/ShantanuLadkat/TUPLE.git then git push origin master and done.
